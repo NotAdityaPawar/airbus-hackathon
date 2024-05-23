@@ -1,0 +1,11 @@
+import Navbar from "../components/header/Navbar";
+
+export default function FlightInfo() {
+  return (
+
+    <div>
+      <Navbar />
+      Flight Info
+    </div>
+  )
+}
